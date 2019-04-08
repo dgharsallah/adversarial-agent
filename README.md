@@ -17,6 +17,8 @@ Finally, agents have a fixed time limit (150 milliseconds by default) to search 
 
 **You can find more information (including implementation details) about the in the Isolation library readme [here](/isolation/README.md).**
 
+## Solution
+The solution is an MCTS algorithm explained in details [here](https://int8.io/monte-carlo-tree-search-beginners-guide/)
 
 ## Getting Started (Workspaces)
 
