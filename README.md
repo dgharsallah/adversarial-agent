@@ -36,7 +36,7 @@ $ source activate aind
 
 - Clone the project repository from GitHub. 
 ```
-(aind) $ git clone https://github.com/dhaw92/adversarial-agent
+(aind) $ git clone https://github.com/dgharsallah/adversarial-agent
 ```
 
 
